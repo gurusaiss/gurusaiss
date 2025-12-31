@@ -76,10 +76,3 @@ Projects like **YouTube-Analyzer-Pro** and **YouTube-Analyzer** for analyzing ch
 👉 Repo: [YouTube-Analyzer-Pro](https://github.com/gurusaiss/YouTube-Analyzer-Pro)
 
 ---
-
-## Find Me Online
-
-- 💼 LinkedIn: [your-link-here]
-- 🧑‍💻 LeetCode: [https://leetcode.com/u/gss_coder/](https://leetcode.com/u/gss_coder/)
-- 🎥 YouTube: [@VIZAGshows](https://www.youtube.com/@VIZAGshows)
-- 📧 Email: [your-email@domain.com](mailto:your-email@domain.com)
