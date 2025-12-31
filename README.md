@@ -1,7 +1,7 @@
 # Hi, I'm Guru Sai Sumith 👋
 
-Aspiring **Software** Engineer from Visakhapatnam, India, building real‑world full‑stack apps and AI‑powered tools.  
-Currently focused on React + TypeScript, Node.js, and practical ML projects, while creating tech content on YouTube (@VIZAGshows).
+Aspiring **Software** Engineer building real‑world full‑stack apps and AI‑powered tools.  
+Currently focused on React + TypeScript, Node.js, and practical ML projects, while creating tech content on YouTube.
 
 - 🚀 Projects: Full‑stack dashboards, management systems, and AI utilities
 - 🧠 Practice: Daily DSA & problem solving (LeetCode)
@@ -14,10 +14,6 @@ Currently focused on React + TypeScript, Node.js, and practical ML projects, whi
 - 🔭 I’m currently working on full‑stack platforms like UniHub, incubator‑management‑system, and legal_AID.
 - 🌱 I’m currently learning advanced React, TypeScript, system design, and practical ML.
 - 👯 I’m looking to collaborate on real‑world SaaS products, devtools, and AI utilities.
-- 🤔 I’m looking for help with scaling apps, API design best practices, and cloud deployment.
-- 💬 Ask me about DSA, full‑stack web apps, ML basics, or content creation on YouTube.
-- 📫 How to reach me: your-email@domain.com | LinkedIn | LeetCode | YouTube @VIZAGshows.
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I mix DSA, product building, and storytelling to turn ideas into shipped projects.
 
 ---
@@ -35,14 +31,6 @@ Currently focused on React + TypeScript, Node.js, and practical ML projects, whi
 
 ## Featured Projects
 
-### 🔹 ML_Lab
-End-to-end ML algorithms implemented from scratch in Python: data preprocessing, model training, evaluation, and visualizations.  
-- Clean, well-documented academic & industry-ready code  
-- Great for showcasing your ML foundations  
-
-👉 Repo: [ML_Lab](https://github.com/gurusaiss/ML_Lab)
-
----
 
 ### 🔹 UniHub
 Full-stack platform for managing university-related workflows (students, content, operations) built with TypeScript.  
